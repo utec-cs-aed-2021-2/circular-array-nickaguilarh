@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Data/Projects/Algoritmos/Tareas/000-circular-array-nickaguilarh/circulararray.h
+iostream
+-
+
+/Volumes/Data/Projects/Algoritmos/Tareas/000-circular-array-nickaguilarh/main.cpp
+iostream
+-
+circulararray.h
+/Volumes/Data/Projects/Algoritmos/Tareas/000-circular-array-nickaguilarh/circulararray.h
+tester.h
+/Volumes/Data/Projects/Algoritmos/Tareas/000-circular-array-nickaguilarh/tester.h
+
+/Volumes/Data/Projects/Algoritmos/Tareas/000-circular-array-nickaguilarh/tester.h
+iostream
+-
+

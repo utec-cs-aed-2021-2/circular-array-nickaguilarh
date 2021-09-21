@@ -1,0 +1,3 @@
+/Volumes/Data/Projects/Algoritmos/Tareas/000-circular-array-nickaguilarh/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/Data/Projects/Algoritmos/Tareas/000-circular-array-nickaguilarh/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/Data/Projects/Algoritmos/Tareas/000-circular-array-nickaguilarh/cmake-build-debug/CMakeFiles/000_circular_array_nickaguilarh.dir
